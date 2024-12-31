@@ -10,7 +10,7 @@ The goal of the Fleet Management analysis is to make managing trips and resource
 - make sure data is consistent and clean according to the data type.
 - pivot table have been constructed according to problems.
 - merged all the pivot tables using a slicer into a dashboard to make it dynamic.
-- dashboard interactions: <a href="https://github.com/Akanksha311/fleet-management-transportation-and-logistics-dashboard/blob/main/Screenshot%202024-12-31%20222505.png"></a>
+- dashboard interactions: <a href="https://github.com/Akanksha311/fleet-management-transportation-and-logistics-dashboard/blob/main/Screenshot%202024-12-31%20222505.png">dashboard</a>
 ## dashboard
 ![Screenshot 2024-12-31 222505](https://github.com/user-attachments/assets/3bb59e9d-22cc-4eda-a946-fd2cc5fb55fe)
 ## project insights
